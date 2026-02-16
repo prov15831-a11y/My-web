@@ -20,7 +20,7 @@ index.html
 
   <head>  <-- metadata,  information about your website
   open scripts (javascript)
-
+  <link href="./index.css" rel = "stylesheet">
 
 
 
@@ -31,7 +31,7 @@ index.html
   </head>
 
 
-  <body>
+  <body> <- contains everything you see
     <h1> <-- heading
     Heading! BIG TEXT h1   h2,h3,h4,h5,h6   bigger numbers -> smaller text
     </h1>
@@ -43,6 +43,8 @@ index.html
     </p>
 
   
+
+    <img href="your-link.com">    NO CLOSING TAG HERE
 
   </body>
 
@@ -71,3 +73,6 @@ external css
 .css file
 
 
+body {
+
+}
