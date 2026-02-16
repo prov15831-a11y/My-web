@@ -1,1 +1,41 @@
 sigma
+
+HTML page <--- what you see 
+
+Style -> CSS  
+
+Functional -> Javascript 
+
+
+HTML
+
+.html
+
+index.html 
+
+
+<!doctype html>
+
+<html> 
+
+  <head>  <-- metadata,  information about your website
+  open scripts (javascript)
+
+
+
+
+  <title>    <-- open tab at the top of your screens
+    Kenzie's website 
+  </title>
+
+  </head>
+
+
+  <body>
+
+  
+
+  </body>
+
+
+</html>
