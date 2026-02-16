@@ -1,5 +1,9 @@
 body {
     background-color:navy;
     color: aliceblue;
-    
+}
+
+img {
+    width: 300px; 
+    height: 100px;
 }

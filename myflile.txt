@@ -44,7 +44,7 @@ index.html
 
   
 
-    <img href="your-link.com">    NO CLOSING TAG HERE
+    <img src="your-link.com">    NO CLOSING TAG HERE
 
   </body>
 
@@ -72,6 +72,10 @@ external css
 
 .css file
 
+img {
+    width: 300px;
+    height: 100px;
+}
 
 body {
 
