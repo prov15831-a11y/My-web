@@ -32,6 +32,15 @@ index.html
 
 
   <body>
+    <h1> <-- heading
+    Heading! BIG TEXT h1   h2,h3,h4,h5,h6   bigger numbers -> smaller text
+    </h1>
+
+    <p> <-- paragraph
+    my cool text
+
+
+    </p>
 
   
 
