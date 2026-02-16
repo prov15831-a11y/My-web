@@ -48,3 +48,26 @@ index.html
 
 
 </html>
+
+
+
+CSS TIME
+
+
+.css extension
+
+
+inline   good apply to singular 
+<h1 style= "background: red"> hello </h1>
+
+internal css 
+
+<style> 
+background-color: red
+</style>
+
+external css
+
+.css file
+
+
